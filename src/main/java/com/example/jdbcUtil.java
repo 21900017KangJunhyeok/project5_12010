@@ -15,6 +15,7 @@ public class jdbcUtil {
         return con;
     }
 
+
     public static void main(String ars[]) {
         Connection conn = getConnection();
         if(conn != null)
