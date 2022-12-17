@@ -64,5 +64,6 @@
 </c:forEach>
 </table>
 <br/><a href="add">Add New Post</a>
+<br/><a href="../login/logout">로그아웃</a>
 </body>
 </html>
